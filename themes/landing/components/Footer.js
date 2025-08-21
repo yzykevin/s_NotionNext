@@ -40,13 +40,33 @@ export default function Footer() {
                 <div className="grid sm:grid-cols-12 gap-8 py-8 md:py-12 border-t border-gray-200">
 
                     {/* 1st block */}
-                    <div className="sm:col-span-12 lg:col-span-3">
+                    {/* <div className="sm:col-span-12 lg:col-span-3">
                         <div className="mb-2">
                             <Logo />
                         </div>
                         <div className="text-sm text-gray-600">
                             <SmartLink href="/terms-of-use" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">服务条款</SmartLink> · <SmartLink href="/privacy-policy" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">隐私政策</SmartLink>
                         </div>
+                    </div> */}
+                    <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
+                        <h6 className="text-gray-800 font-medium mb-2">Subscribe | 关注</h6>
+                        <ul className="text-sm">
+                            <li className="mb-4">
+                                <a href="https://www.linkedin.com/in/yzykevin/" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Linkedin | 领英</a>
+                            </li>
+                            <li className="mb-4">
+                                <a href="https://www.xiaohongshu.com/user/profile/65b63069000000000e026c1f?xsec_token=YBJMZDGPRkjBSVenurH30OnvIKHtUkE1kRxxjJL6TSJEw=&xsec_source=app_share&xhsshare=CopyLink&appuid=65b63069000000000e026c1f&apptime=1755803276&share_id=035e9f53a4354867898bde6463a0232b" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Xiaohongshu | 小红书</a>
+                            </li>
+                            <li className="mb-4">
+                                <a href="https://music.apple.com/us/artist/%E9%96%86%E6%8C%AF%E5%AE%87/962364419" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Apple Music | 苹果音乐</a>
+                            </li>
+                            <li className="mb-4">
+                                <a href="https://www.youtube.com/channel/UC05KoJFDYGRLcmNezgFKQbw" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Youtube | 油管</a>
+                            </li>
+                            <li className="mb-4">
+                                <a href="https://www.goodreads.com/user/show/147906610-saltyfish-kevin" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Goodread | 好读</a>
+                            </li>
+                        </ul>
                     </div>
 
                     {/* 2nd block */}
@@ -101,7 +121,7 @@ export default function Footer() {
                                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Home | 主页</a>
                             </li>
                             <li className="mb-4">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">About | 关于</a>
+                                <a href="https://blog.sostrt.com/about" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">About | 关于</a>
                             </li>
                             <li className="mb-4">
                                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Values | 价值观</a>
