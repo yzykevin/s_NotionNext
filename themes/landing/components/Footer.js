@@ -51,13 +51,13 @@ export default function Footer() {
 
                     {/* 2nd block */}
                     <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                        <h6 className="text-gray-800 font-medium mb-2">产品</h6>
+                        <h6 className="text-gray-800 font-medium mb-2">Works | 作品</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">NotionNext</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Music | 音乐</a>
                             </li>
                             <li className="mb-2">
-                                {/* <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Vercel</a> */}
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Chip Development | 芯片开发</a>
                             </li>
                             <li className="mb-2">
                                 {/* <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Github</a> */}
@@ -73,44 +73,44 @@ export default function Footer() {
 
                     {/* 3rd block */}
                     <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                        <h6 className="text-gray-800 font-medium mb-2">资源</h6>
+                        <h6 className="text-gray-800 font-medium mb-2">Resources | 资源</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">技术文档</a>
+                                <a href="https://uve.sostrt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Documents | 技术文档</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">教程指南</a>
+                                <a href="https://tools.sostrt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tools | 工具</a>
                             </li>
                             <li className="mb-2">
-                                <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">博客</a>
+                                <a href="https://blog.sostrt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Blog | 博客</a>
                             </li>
-                            <li className="mb-2">
-                                <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
-                            </li>
-                            <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">合作方</a>
-                            </li>
+                            // <li className="mb-2">
+                            //     <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
+                            // </li>
+                            // <li className="mb-2">
+                            //     <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">合作方</a>
+                            // </li>
                         </ul>
                     </div>
 
                     {/* 4th block */}
                     <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                        <h6 className="text-gray-800 font-medium mb-2">企业</h6>
+                        <h6 className="text-gray-800 font-medium mb-2">Map | 地图</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">主页</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Home | 主页</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">关于我们</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">About | 关于</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">公司价值观</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Values | 价值观</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">价格</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Contact | 联系</a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">隐私政策</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Privacy Policy | 隐私政策</a>
                             </li>
                         </ul>
                     </div>
@@ -178,7 +178,7 @@ export default function Footer() {
                     </ul>
 
                     {/* Copyrights note */}
-                    <div className="text-sm text-gray-600 mr-4">&copy; NotionNext. All rights reserved.</div>
+                    <div className="text-sm text-gray-600 mr-4">&copy; Sostrt. All rights reserved.</div>
 
                 </div>
 
