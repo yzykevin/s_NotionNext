@@ -56,7 +56,7 @@ export default function Footer() {
                             <li className="mb-2">
                                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Music | 音乐</a>
                             </li>
-                            <li className="mb-2">
+                            <li className="mb-4">
                                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Chip Development | 芯片开发</a>
                             </li>
                             <li className="mb-2">
@@ -84,12 +84,12 @@ export default function Footer() {
                             <li className="mb-2">
                                 <a href="https://blog.sostrt.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Blog | 博客</a>
                             </li>
-                            // <li className="mb-2">
-                            //     <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
-                            // </li>
-                            // <li className="mb-2">
-                            //     <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">合作方</a>
-                            // </li>
+                            {/*<li className="mb-2">
+                                <a href="https://blog.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">支持中心</a>
+                            </li>
+                            <li className="mb-2">
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">合作方</a>
+                            </li>*/}
                         </ul>
                     </div>
 
