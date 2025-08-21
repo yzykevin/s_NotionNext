@@ -60,7 +60,6 @@ const LayoutIndex = props => {
       <Features />
       <FeaturesBlocks />
       <Testimonials />
-      <Pricing />
       <Newsletter />
     </>
   )
