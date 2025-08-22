@@ -22,7 +22,9 @@ export const Footer = (props) => {
          <p>
            © {siteConfig('AUTHOR')} {copyrightDate}
          </p>
-         <Vercel />
+         <p>
+           Enjoy~❤️
+         </p>
        </div>
      </div>
    </footer>
